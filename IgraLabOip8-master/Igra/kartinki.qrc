@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/home/02/lucenko/Рабочий стол/ИГРА/IgraLabOip8-master/Igra">
+        <file>1.jpeg</file>
+        <file>fon3.jpg</file>
+        <file>fon2.jpg</file>
+        <file>fon1.jpg</file>
+        <file>1.png</file>
+    </qresource>
+</RCC>

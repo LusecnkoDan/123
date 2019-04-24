@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/imgTex">
+        <file>fon3.jpg</file>
+        <file>fon2.jpg</file>
+        <file>fon1.jpg</file>
+        <file>1.png</file>
+        <file>1.jpeg</file>
+    </qresource>
+</RCC>
